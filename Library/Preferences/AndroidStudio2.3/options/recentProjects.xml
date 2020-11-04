@@ -1,0 +1,26 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/albums/android" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Desktop/albums/android" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/albums/android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1488576996681" />
+              <option name="buildTimestamp" value="1487916000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop/albums" />
+  </component>
+</application>
